@@ -16,7 +16,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author lumineo
+ * @author karmo.tutk
  */
 public class CaesarUI extends javax.swing.JFrame {
     
